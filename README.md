@@ -11,20 +11,17 @@ I'm currently a student in the Faculty of Computer and Information Technology at
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">
+  <a href="https://linkedin.com/in/umar-saleem-1a521325b" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/yourinstagramprofile" target="_blank">
+  <a href="https://www.instagram.com/umarsaleem816?igsh=ZjYyZjAycWl6OXk4" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="umarsaleem0816@gamil.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
   </a>
-  <a href="https://leetcode.com/yourleetcodeprofile" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" width="40" height="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/yourcodeforcesprofile" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/codeforces.png" alt="Codeforces" width="40" height="40"/>
+  <a href="https://leetcode.com/u/Umar__Saleem/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
 
